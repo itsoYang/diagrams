@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="第 1 页" id="8Gkt_5k_5_PJbNFNiaN0">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gHaaGcS_bvuYW3JebILp-3" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="-50" y="690" width="100" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-3" vertex="1">
+          <mxGeometry x="45" y="230" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-3" vertex="1">
+          <mxGeometry x="45" y="460" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-6" value="妙课Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="170" y="690" width="100" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-6" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-6" vertex="1">
+          <mxGeometry x="50" y="120" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-13" value="校验参数&lt;div&gt;封装3D任务&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="gHaaGcS_bvuYW3JebILp-6" target="gHaaGcS_bvuYW3JebILp-12" edge="1">
+          <mxGeometry x="0.0118" relative="1" as="geometry">
+            <mxPoint x="55" y="100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="130" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-6" vertex="1">
+          <mxGeometry x="45" y="400" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-7" value="消息队列" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="390" y="690" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-7" vertex="1">
+          <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-7" vertex="1">
+          <mxGeometry x="45" y="350" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-8" value="3D资源生成服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="620" y="690" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-8" vertex="1">
+          <mxGeometry x="45" y="240" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-8" vertex="1">
+          <mxGeometry x="50" y="290" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-27" value="执行3D资源生成&lt;div&gt;搜索3D模型&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="gHaaGcS_bvuYW3JebILp-8" target="gHaaGcS_bvuYW3JebILp-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-9" value="妙课Server数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="860" y="690" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-9" vertex="1">
+          <mxGeometry x="45" y="160" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="gHaaGcS_bvuYW3JebILp-9" vertex="1">
+          <mxGeometry x="45" y="430" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-11" value="发送资源生成请求&lt;div&gt;关键词&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
+          <mxGeometry x="0.0302" y="5" relative="1" as="geometry">
+            <mxPoint y="780.0000000000002" as="sourcePoint" />
+            <mxPoint x="215.5" y="780.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-15" value="插入任务记录&lt;div&gt;维护任务状态&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" target="gHaaGcS_bvuYW3JebILp-9" edge="1">
+          <mxGeometry x="0.0007" y="10" width="60" relative="1" as="geometry">
+            <mxPoint x="230" y="880" as="sourcePoint" />
+            <mxPoint x="290" y="880" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-20" value="返回前端&lt;div&gt;资源生成中&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=1;" parent="1" edge="1">
+          <mxGeometry x="-0.0673" y="-10" relative="1" as="geometry">
+            <mxPoint x="215.5" y="940" as="sourcePoint" />
+            <mxPoint y="940" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-22" value="异步发送3D生成任务&lt;div&gt;到消息队列&lt;/div&gt;" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;" parent="1" target="gHaaGcS_bvuYW3JebILp-7" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="920" as="sourcePoint" />
+            <mxPoint x="300" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-25" value="推送任务" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;" parent="1" target="gHaaGcS_bvuYW3JebILp-8" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="440" y="950" as="sourcePoint" />
+            <mxPoint x="520" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-30" value="发送关键词与&lt;div&gt;图片及对应链接&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="gHaaGcS_bvuYW3JebILp-8" target="gHaaGcS_bvuYW3JebILp-7" edge="1">
+          <mxGeometry x="0.0783" y="-10" relative="1" as="geometry">
+            <mxPoint x="640" y="1070" as="sourcePoint" />
+            <mxPoint x="560" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="1070" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-33" value="推送关键词与&lt;div&gt;图片及对应链接&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="gHaaGcS_bvuYW3JebILp-29" target="gHaaGcS_bvuYW3JebILp-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1100" as="sourcePoint" />
+            <mxPoint x="290" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-39" value="更新任务记录" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" target="gHaaGcS_bvuYW3JebILp-9" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="230" y="1170" as="sourcePoint" />
+            <mxPoint x="290" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHaaGcS_bvuYW3JebILp-42" value="返回前端关键词及&lt;div&gt;图片列表信息&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="1" source="gHaaGcS_bvuYW3JebILp-6" target="gHaaGcS_bvuYW3JebILp-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1220" as="sourcePoint" />
+            <mxPoint x="60" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
