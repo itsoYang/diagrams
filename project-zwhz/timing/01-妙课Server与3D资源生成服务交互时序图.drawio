@@ -302,6 +302,9 @@
         <mxCell id="zgQfk_fnJUzU70toARou-46" value="这块后续看前端交互如何设计在调整" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="490" y="2140" width="160" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="zgQfk_fnJUzU70toARou-47" value="后续还会补充关于代币体系的信息" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-311" y="490" width="201" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
