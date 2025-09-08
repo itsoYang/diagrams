@@ -285,6 +285,16 @@
         <mxCell id="Fx2AZmH5evgSTG1EavA_-36" value="认证授权服务" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-gif.flaticon.com/19014/19014137.gif;" vertex="1" parent="1">
           <mxGeometry x="120" y="445" width="120" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="Fx2AZmH5evgSTG1EavA_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;flowAnimation=1;entryX=0.388;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g8IDcojqgnYVjRbKk0xe-33" target="P0uEnLT0tcXrdcJD_U2h-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fx2AZmH5evgSTG1EavA_-45" value="获取配置信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fx2AZmH5evgSTG1EavA_-44">
+          <mxGeometry x="0.2902" y="-3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
