@@ -265,7 +265,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fx2AZmH5evgSTG1EavA_-28" value="日志监控" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-45" width="500" height="245" as="geometry" />
+          <mxGeometry x="1070" y="-45" width="500" height="245" as="geometry" />
         </mxCell>
         <mxCell id="Fx2AZmH5evgSTG1EavA_-29" value="Grafana" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="Fx2AZmH5evgSTG1EavA_-28">
           <mxGeometry x="200" y="55" width="100" height="40" as="geometry" />
