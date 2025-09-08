@@ -45,6 +45,11 @@
         <mxCell id="Fx2AZmH5evgSTG1EavA_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;flowAnimation=1;" edge="1" parent="Fx2AZmH5evgSTG1EavA_-1" source="Fx2AZmH5evgSTG1EavA_-3" target="Fx2AZmH5evgSTG1EavA_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Fx2AZmH5evgSTG1EavA_-46" value="Feign" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Fx2AZmH5evgSTG1EavA_-21">
+          <mxGeometry x="-0.2923" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Fx2AZmH5evgSTG1EavA_-3" value="集成服务" style="swimlane;whiteSpace=wrap;html=1;startSize=25;" vertex="1" parent="Fx2AZmH5evgSTG1EavA_-1">
           <mxGeometry x="20" y="50" width="160" height="200" as="geometry">
             <mxRectangle x="20" y="30" width="90" height="30" as="alternateBounds" />
